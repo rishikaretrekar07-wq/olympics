@@ -30,8 +30,6 @@ A Tableau portfolio project using the supplied Olympic dataset. The detailed ath
 - No detailed athlete-event data for 2024 or 2026 is included in the uploaded source. Do not represent the supplement as a complete all-NOC medal table.
 - No Tableau `.twb` / `.twbx` file is generated automatically here. Use the build guide to create and save the workbook in Tableau Public or Tableau Desktop.
 
-## Suggested project question
-How have Olympic medal records and participation patterns changed across years, countries/NOCs, disciplines, and Summer versus Winter Games?
 
 ## Starter observation
 Top five NOCs by athlete-medal records in this dataset:
